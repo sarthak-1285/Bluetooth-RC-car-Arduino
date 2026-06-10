@@ -171,8 +171,8 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ## 🙋‍♂️ Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**Sarthak Gote**
+- GitHub: [@sarthak-1285](https://github.com/YOUR_USERNAME)
 
 ---
 
